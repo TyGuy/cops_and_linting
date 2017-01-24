@@ -22,9 +22,6 @@ Metrics/MethodLength:
 Style/Documentation:
   Enabled: false
 
-# Style/TrailingCommaInArguments:
-  # EnforcedStyleForMultiline: consistent_comma
-
 Style/TrailingCommaInLiteral:
   EnforcedStyleForMultiline: constistent_comma
 
@@ -34,7 +31,6 @@ Style/ClassAndModuleChildren:
 Style/AlignParameters:
   Enabled: false
 
-# TODO: might not actually want to disable -- just don't understand rubocop
 Style/DotPosition:
   Enabled: false
 
